@@ -1,5 +1,6 @@
 # node-portscan-util
-simple command line tool to scan a range of ports, to verify http connectivity
+simple command line tool to scan a range of ports internally, to verify http connectivity.
+this is not intended to scan ports on remote servers
 
 useage:
 
